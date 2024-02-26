@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-16T10:20:15 IST" name="WEBDRIVERUNIVERSITY Application Test Automation Test Suite" finished-at="2024-02-16T10:24:03 IST" duration-ms="228318">
+    <groups>
+    </groups>
+    <test started-at="2024-02-16T10:20:15 IST" name="WebDriverUniversity App Test Cases" finished-at="2024-02-16T10:24:03 IST" duration-ms="228318">
+      <class name="webdriveruniversity.comTest.WebdriveruniversityTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:20:15 IST" name="setUp" finished-at="2024-02-16T10:20:29 IST" duration-ms="14332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:20:29 IST" name="test1" finished-at="2024-02-16T10:20:40 IST" duration-ms="10494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:20:40 IST" name="test2" finished-at="2024-02-16T10:20:52 IST" duration-ms="12173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:20:52 IST" name="test3" finished-at="2024-02-16T10:21:04 IST" duration-ms="11873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:4, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:21:04 IST" name="test4" finished-at="2024-02-16T10:21:13 IST" duration-ms="9058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:5, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:21:13 IST" name="test5" finished-at="2024-02-16T10:21:23 IST" duration-ms="10299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:6, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:21:23 IST" name="test6" finished-at="2024-02-16T10:21:34 IST" duration-ms="10819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method signature="test7()[pri:7, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:21:34 IST" name="test7" finished-at="2024-02-16T10:21:50 IST" duration-ms="15771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method signature="test8()[pri:8, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:21:50 IST" name="test8" finished-at="2024-02-16T10:22:02 IST" duration-ms="12381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method signature="test9()[pri:9, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:22:02 IST" name="test9" finished-at="2024-02-16T10:22:58 IST" duration-ms="55705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method signature="test10()[pri:10, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:22:58 IST" name="test10" finished-at="2024-02-16T10:23:11 IST" duration-ms="13259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method signature="test11()[pri:11, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:23:11 IST" name="test11" finished-at="2024-02-16T10:23:34 IST" duration-ms="23519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method signature="test12()[pri:12, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:23:34 IST" name="test12" finished-at="2024-02-16T10:23:37 IST" duration-ms="2399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method signature="test13()[pri:13, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:23:37 IST" name="test13" finished-at="2024-02-16T10:23:47 IST" duration-ms="10465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test13 -->
+        <test-method signature="test14()[pri:14, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:23:47 IST" name="test14" finished-at="2024-02-16T10:24:01 IST" duration-ms="13909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test14 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:webdriveruniversity.comTest.WebdriveruniversityTestCases@3bd8ceee]" started-at="2024-02-16T10:24:01 IST" name="tearDown" finished-at="2024-02-16T10:24:03 IST" duration-ms="1735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- webdriveruniversity.comTest.WebdriveruniversityTestCases -->
+    </test> <!-- WebDriverUniversity App Test Cases -->
+  </suite> <!-- WEBDRIVERUNIVERSITY Application Test Automation Test Suite -->
+</testng-results>
